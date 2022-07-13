@@ -1,0 +1,34 @@
+.current-weather-info {
+    display: flex;
+    align-items: center;
+  }
+  .current-temp {
+    font-size: 4rem;
+  }
+  .cel-fahr {
+    position: relative;
+    top: -20px;
+  }
+  .active {
+    text-decoration: none;
+    color: white;
+  }
+  .desc-info {
+    align-self: center;
+  }
+  .humidity {
+    display: block;
+  }
+  
+  .wind {
+    display: block;
+  }
+  a {
+    color: #b88360;
+  }
+  
+  a:hover {
+    color: white;
+    cursor: default;
+  }
+  

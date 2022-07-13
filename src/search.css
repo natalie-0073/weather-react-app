@@ -1,0 +1,23 @@
+.search-city-input {
+    display: flex;
+    justify-content: center;
+  }
+  .search_input {
+    width: 170px;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 3px;
+  }
+  .search-button {
+    background: #5f2d3e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    transition: all 0.2s;
+  }
+  
+  .search-button:hover {
+    background: #b88360;
+  }
+  
